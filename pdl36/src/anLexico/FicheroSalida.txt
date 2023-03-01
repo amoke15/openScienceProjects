@@ -1,0 +1,1 @@
+ < PR , 6 >  < aux , 0 >  < a , 1 >  < coma , - >  < b , 2 >  < cerrarParentesis , - >  < puntoComa , - >  < PR , 4 >  < PR , 4 > 
