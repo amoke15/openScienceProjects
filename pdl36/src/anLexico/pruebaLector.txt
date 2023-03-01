@@ -1,2 +1,0 @@
-int aux( a , b );  while
-while
